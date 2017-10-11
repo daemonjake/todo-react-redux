@@ -1,0 +1,11 @@
+.current {
+    background-color: green;
+}
+
+li {
+    cursor: 'pointer'
+}
+
+.inactive {
+    text-decoration: line-through;
+}
