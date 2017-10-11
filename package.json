@@ -5,7 +5,7 @@
     "main": "webpack.config.js",
     "scripts": {
         "build": "webpack --progress",
-        "serve": "http-server ./dist -p 3000",
+        "start": "http-server ./dist -p 3000",
         "test": "mocha ./test"
     },
     "repository": {
